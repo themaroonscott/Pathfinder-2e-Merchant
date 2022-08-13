@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "Pathfinder-2e-Merchant",
+  "title": "Pathfinder 2e Merchant",
+  "description": "A Merchant module for Pathfinder 2e in Foundry VTT. Buys and sells goods from players, with automatic ",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,9 +12,8 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Jacob Buchanan",
+      "url": "https://github.com/themaroonscott"
     }
   ],
   "relationships": {
